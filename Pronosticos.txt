@@ -1,0 +1,7 @@
+Mara,Brasil,X, , ,Uruguay
+Mara,Polonia, , ,X,Argentina
+Thomas,Alemania, ,X, ,Japon
+Mara,Argentina,X, , ,Costa Rica
+Lucas,Paraguay,X, , ,Chile
+Thomas,China, ,X, ,Japon
+Abel,Estados Unidos,X, , ,Rusia

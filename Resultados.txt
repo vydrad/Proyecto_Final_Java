@@ -1,0 +1,5 @@
+1,Brasil,3,0,Uruguay
+1,Polonia,1,1,Argentina
+2,Alemania,2,2,Japon
+3,Argentina,3,1,Costa Rica
+3,Paraguay,0,2,Chile
